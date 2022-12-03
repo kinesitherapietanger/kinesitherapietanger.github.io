@@ -4,10 +4,10 @@
 /*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /*.main-menu ul>li a {
+    .main-menu ul>li a {
         padding: 20px 20px 20px;
     }
-    */
+    
     .header-search {
         padding: 15px 0px;
     }
