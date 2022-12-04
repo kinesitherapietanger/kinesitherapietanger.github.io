@@ -422,7 +422,7 @@ a.readmore_bt {
 }
 
 .top_awro {
-	background: #ee4a79 none repeat scroll 0 0;
+	background: #38c8a8 none repeat scroll 0 0;
 	cursor: pointer;
 	padding: 6px 8px;
 	position: fixed;
@@ -438,7 +438,7 @@ a.readmore_bt {
 }
 
 .sale_pro {
-	background: #f25252 !important;
+	background: #38c8a8 !important;
 }
 
 .margin_top_50 {
@@ -1553,7 +1553,7 @@ margin-bottom: 20px;
 }
 
 .read-more a:hover {
-	background: #fc4311;
+	background: #0af2d4;
     border-radius: 25px;
     transition: ease-in all 0.5s;
 }
@@ -1803,8 +1803,8 @@ margin-top: 50px;
 }
 
 .about a:hover {
-	border: #fc4311 solid 1px;
-    background: #fc4311;
+	border: #0af2d4 solid 1px;
+    background: #0af2d4;
     border-radius: 25px;
     transition: ease-in all 0.5s;
 }
@@ -1828,7 +1828,7 @@ margin-top: 50px;
      line-height: 50px;
      display: inline-block;
      position: relative;
-     border-bottom: #fc4311 solid 1px;
+     border-bottom: #0af2d4 solid 1px;
 width: 209px;
 margin: 0 auto;
 margin-bottom: 0px;
@@ -1867,7 +1867,7 @@ margin-bottom: 20px;
      left: 0px;
      position: absolute;
      margin-left: 15px;
-     background: #fc4311;
+     background: #0af2d4;
      padding: 10px 30px;
      color: #fff;
 }
@@ -1883,7 +1883,7 @@ margin-bottom: 20px;
      padding: 15px 0px;
 }
 .blog .blog-box .travel span {
-     color: #fc4311;
+     color: #0af2d4;
      display: inline-block;
 }
 .blog .blog-box .travel p {
@@ -1891,10 +1891,10 @@ margin-bottom: 20px;
      padding-left: 15px;
 }
 .like {
-     color: #fc4311;
+     color: #0af2d4;
 }
 .Comment {
-     color: #fc4311;
+     color: #0af2d4;
 }
 .contact_form {
      background: #114c7d;
@@ -1973,8 +1973,8 @@ margin-bottom: 20px;
 }
 
 .contact .contact .send:hover {
-	background-color: #fc4311;
-	border: #fc4311 solid 1px;
+	background-color: #0af2d4;
+	border: #0af2d4 solid 1px;
 	color: #fff;
     border-radius: 25px;
     transition: ease-in all 0.5s;
@@ -2092,14 +2092,14 @@ ul.contant_icon li img {
 	padding: 4px 23px;
 border: #000 solid 1px;
 background: #000;
-color: #fc4311;
+color: #0af2d4;
 font-weight: 500;
 font-size: 17px;}
 
 .footer .address .submit-btn:hover {
 	background: #fff;
     border: #fff solid 1px;
-    color: #fc4311;
+    color: #0af2d4;
 }
 
 .copyright {
