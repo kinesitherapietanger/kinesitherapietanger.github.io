@@ -1582,6 +1582,10 @@ margin-bottom: 20px;
 	background: #0af2d4;
 	margin-top: 90px;
 	   font-size: 13px;
+		font-size: 23px;
+	font-weight: bold;
+	color: white;
+	line-height: 20px;
 }
 
 .service .titlepage span {
@@ -1638,7 +1642,7 @@ margin-bottom: 20px;
 	font-size: 27px;
 	font-weight: bold;
 	color: white;
-	line-height: 30px;
+	line-height: 25px;
 	border-bottom: white solid 1px;
 	width: 210px;
 	margin: 0 auto;
