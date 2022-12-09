@@ -1570,6 +1570,7 @@ margin-bottom: 20px;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
+	   font-size: 13px;
    
 }
 
@@ -1580,20 +1581,24 @@ margin-bottom: 20px;
 	padding-bottom: 60px;
 	background: #0af2d4;
 	margin-top: 90px;
+	   font-size: 13px;
 }
 
 .service .titlepage span {
 	color: # 3d3c3c
+		   font-size: 13px;
 }
 
 .service .service-box figure {
 	margin: 0px;
+	   font-size: 13px;
 }
 
 .service .service-box figure img {
 	width: 100%;
 	border-radius: 20px;
         filter: brightness(50%);
+	   font-size: 13px;
 }
 
 .green {
@@ -1613,6 +1618,7 @@ margin-bottom: 20px;
 	margin: 0 15px;
 	transition: all 0.5s;
     border-radius: 20px;
+	   font-size: 13px;
 }
 
 .service .service-box .hoverle a {
@@ -1624,19 +1630,21 @@ margin-bottom: 20px;
 .service .titlepage {
 	text-align: center;
 	padding-bottom: 50px;
+	   font-size: 13px;
 }
 
 .service .titlepage h2 {
 	padding: 0px 0px 6px 0px;
-	font-size: 40px;
+	font-size: 32px;
 	font-weight: bold;
 	color: white;
-	line-height: 46px;
+	line-height: 40px;
 	border-bottom: white solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
 	margin-bottom: 20px;
+	   font-size: 13px;
 }
 
 .service .service-box:hover .hoverle {
@@ -1653,6 +1661,7 @@ margin-bottom: 20px;
 	margin: 0 15px;
 	border-radius: 20px;
 	transition: all 0.5s;
+	   font-size: 13px;
 }
 
 .service .service-box:hover .hoverle a {
@@ -1661,12 +1670,14 @@ margin-bottom: 20px;
 	padding: 5px 30px;
 	color: #fff;
 	transition: all 0.5s;
+	   font-size: 13px;
 }
 
 #demo {
 	height: 100%;
 	position: relative;
 	overflow: hidden;
+	   font-size: 13px;
 }
 
 .thumb {
